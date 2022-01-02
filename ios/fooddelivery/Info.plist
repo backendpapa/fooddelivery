@@ -69,6 +69,40 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>BentonSans Black.otf</string>
+		<string>BentonSans Bold.otf</string>
+		<string>BentonSans Book.otf</string>
+		<string>BentonSans Medium.otf</string>
+		<string>BentonSans Regular.otf</string>
+		<string>BentonSansBlack.otf</string>
+		<string>BentonSansBold.otf</string>
+		<string>BentonSansBook.otf</string>
+		<string>BentonSansMedium.otf</string>
+		<string>BentonSansRegular.otf</string>
+		<string>BentonSans-Bold.otf</string>
+		<string>BentonSans-Regular.otf</string>
+		<string>Roboto-Black.ttf</string>
+		<string>Roboto-BlackItalic.ttf</string>
+		<string>Roboto-Bold.ttf</string>
+		<string>Roboto-BoldItalic.ttf</string>
+		<string>Roboto-Italic.ttf</string>
+		<string>Roboto-Light.ttf</string>
+		<string>Roboto-LightItalic.ttf</string>
+		<string>Roboto-Medium.ttf</string>
+		<string>Roboto-MediumItalic.ttf</string>
+		<string>Roboto-Regular.ttf</string>
+		<string>Roboto-Thin.ttf</string>
+		<string>Roboto-ThinItalic.ttf</string>
+		<string>RobotoCondensed-Bold.ttf</string>
+		<string>RobotoCondensed-BoldItalic.ttf</string>
+		<string>RobotoCondensed-Italic.ttf</string>
+		<string>RobotoCondensed-Light.ttf</string>
+		<string>RobotoCondensed-LightItalic.ttf</string>
+		<string>RobotoCondensed-Regular.ttf</string>
+		<string>PTSans-Bold.ttf</string>
+		<string>PTSans-BoldItalic.ttf</string>
+		<string>PTSans-Italic.ttf</string>
+		<string>PTSans-Regular.ttf</string>
 	</array>
 </dict>
 </plist>
