@@ -11,7 +11,7 @@ const Tab=createBottomTabNavigator()
 
 const Tabs=()=>{
     return (
-        <Tab.Navigator screenOptions={{headerShown:false,tabBarShowLabel:!true,tabBarStyle:{backgroundColor:"transparent",position:"absolute",elevation:0,borderTopWidth:0}}}  >
+        <Tab.Navigator screenOptions={{headerShown:false,tabBarShowLabel:true,tabBarStyle:{position:"absolute",elevation:0,borderTopWidth:0}}}  >
             <Tab.Screen name="Home" component={Home} options={{
                 tabBarIcon:({focused})=>{
                  return (<Image source={{uri:"https://img.icons8.com/material-outlined/24/000000/home--v2.png"}} resizeMode="contain" style={{width:30,height:30}} />)
